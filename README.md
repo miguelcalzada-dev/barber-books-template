@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💈 Barber Template
 
-## Getting Started
+Una plantilla web moderna y elegante diseñada específicamente para **barberías y peluquerías premium**. 
 
-First, run the development server:
+Este proyecto está construido para ofrecer una experiencia de usuario rápida y atractiva. Permite a los clientes conocer los servicios disponibles, ver el portafolio de cortes, conocer a los barberos y reservar sus citas fácilmente.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Características Principales
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Diseño Moderno y Clásico**: Una interfaz con un fondo oscuro estilo carbón, texturas inspiradas en la elegancia de los trajes a medida (*pinstripe*), e iluminación virtual cálida en tonos ámbar y oro viejo que imita a las barberías *vintage*.
+- **Servicios y Precios**: Una vista clara de la carta de servicios de la barbería.
+- **Galería Visual**: Un espacio destacado para mostrar trabajos, cortes y degradados.
+- **Reserva Online**: Interfaz pensada para integrar sistemas de calendario y citas inmediatas.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Tecnologías
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Construido con tecnología moderna para asegurar máxima rapidez de carga y rendimiento:
+- **[Next.js](https://nextjs.org/)** - El framework de React para la web.
+- **Tailwind CSS** - Para un diseño totalmente responsivo y personalizado a medida.
 
-## Learn More
+## 🛠️ Instalación y Uso Local
 
-To learn more about Next.js, take a look at the following resources:
+Para probar o modificar esta web en tu ordenador:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Instala las dependencias del proyecto:
+   ```bash
+   npm install
+   ```
+2. Arranca el servidor local de desarrollo:
+   ```bash
+   npm run dev
+   ```
+3. Abre tu navegador en [http://localhost:3000](http://localhost:3000).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Desarrollado y mantenido por Miguel Angel Calzada.*
