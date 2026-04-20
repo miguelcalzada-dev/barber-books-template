@@ -17,19 +17,5 @@ Construido con tecnología moderna para asegurar máxima rapidez de carga y rend
 - **[Next.js](https://nextjs.org/)** - El framework de React para la web.
 - **Tailwind CSS** - Para un diseño totalmente responsivo y personalizado a medida.
 
-## 🛠️ Instalación y Uso Local
-
-Para probar o modificar esta web en tu ordenador:
-
-1. Instala las dependencias del proyecto:
-   ```bash
-   npm install
-   ```
-2. Arranca el servidor local de desarrollo:
-   ```bash
-   npm run dev
-   ```
-3. Abre tu navegador en [http://localhost:3000](http://localhost:3000).
-
 ---
 *Desarrollado y mantenido por Miguel Angel Calzada.*
